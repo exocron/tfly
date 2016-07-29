@@ -415,13 +415,13 @@ var trainer_lookup = [
     },
     {
         "y": 13,
-        "map": "rocktunnel2",
+        "map": "Rock Tunnel, B1F",
         "name": "JR_TRAINER_F",
         "x": 11
     },
     {
         "y": 28,
-        "map": "rocktunnel2",
+        "map": "Rock Tunnel, B1F",
         "name": "JR_TRAINER_F",
         "x": 14
     },
@@ -463,19 +463,19 @@ var trainer_lookup = [
     },
     {
         "y": 21,
-        "map": "rocktunnel1",
+        "map": "Rock Tunnel, 1F",
         "name": "JR_TRAINER_F",
         "x": 37
     },
     {
         "y": 24,
-        "map": "rocktunnel1",
+        "map": "Rock Tunnel, 1F",
         "name": "JR_TRAINER_F",
         "x": 22
     },
     {
         "y": 24,
-        "map": "rocktunnel1",
+        "map": "Rock Tunnel, 1F",
         "name": "JR_TRAINER_F",
         "x": 32
     },
@@ -523,19 +523,19 @@ var trainer_lookup = [
     },
     {
         "y": 5,
-        "map": "rocktunnel2",
+        "map": "Rock Tunnel, B1F",
         "name": "POKEMANIAC",
         "x": 3
     },
     {
         "y": 21,
-        "map": "rocktunnel2",
+        "map": "Rock Tunnel, B1F",
         "name": "POKEMANIAC",
         "x": 20
     },
     {
         "y": 30,
-        "map": "rocktunnel2",
+        "map": "Rock Tunnel, B1F",
         "name": "POKEMANIAC",
         "x": 26
     },
@@ -547,7 +547,7 @@ var trainer_lookup = [
     },
     {
         "y": 8,
-        "map": "rocktunnel1",
+        "map": "Rock Tunnel, 1F",
         "name": "POKEMANIAC",
         "x": 23
     },
@@ -559,7 +559,7 @@ var trainer_lookup = [
     },
     {
         "y": 8,
-        "map": "mtmoon3",
+        "map": "Mt. Moon, B2F",
         "name": "SUPER_NERD",
         "x": 12
     },
@@ -658,13 +658,13 @@ var trainer_lookup = [
     },
     {
         "y": 10,
-        "map": "rocktunnel2",
+        "map": "Rock Tunnel, B1F",
         "name": "HIKER",
         "x": 6
     },
     {
         "y": 10,
-        "map": "rocktunnel2",
+        "map": "Rock Tunnel, B1F",
         "name": "HIKER",
         "x": 30
     },
@@ -676,19 +676,19 @@ var trainer_lookup = [
     },
     {
         "y": 5,
-        "map": "rocktunnel1",
+        "map": "Rock Tunnel, 1F",
         "name": "HIKER",
         "x": 7
     },
     {
         "y": 16,
-        "map": "rocktunnel1",
+        "map": "Rock Tunnel, 1F",
         "name": "HIKER",
         "x": 5
     },
     {
         "y": 15,
-        "map": "rocktunnel1",
+        "map": "Rock Tunnel, 1F",
         "name": "HIKER",
         "x": 17
     },
@@ -1535,31 +1535,31 @@ var trainer_lookup = [
     },
     {
         "y": 16,
-        "map": "mtmoon3",
+        "map": "Mt. Moon, B2F",
         "name": "ROCKET",
         "x": 11
     },
     {
         "y": 22,
-        "map": "mtmoon3",
+        "map": "Mt. Moon, B2F",
         "name": "ROCKET",
         "x": 15
     },
     {
         "y": 11,
-        "map": "mtmoon3",
+        "map": "Mt. Moon, B2F",
         "name": "ROCKET",
         "x": 29
     },
     {
         "y": 17,
-        "map": "mtmoon3",
+        "map": "Mt. Moon, B2F",
         "name": "ROCKET",
         "x": 29
     },
     {
         "y": 8,
-        "map": "ceruleancity",
+        "map": "Cerulean City",
         "name": "ROCKET",
         "x": 30
     },
@@ -1571,7 +1571,7 @@ var trainer_lookup = [
     },
     {
         "y": 5,
-        "map": "Celadon Game Corner (1F)",
+        "map": "Celadon Game Corner, 1F",
         "name": "ROCKET",
         "x": 9
     },
@@ -2063,7 +2063,7 @@ var trainer_lookup = [
     },
     {
         "y": 5,
-        "map": "rocktunnel2",
+        "map": "Rock Tunnel, B1F",
         "name": "HIKER",
         "x": 33
     },
