@@ -456,7 +456,7 @@ var trainer_lookup = [
     },
     {
         "y": 12,
-        "map": "Route 20",
+        "map": "Sea Route 20",
         "name": "JR_TRAINER_F",
         "x": 24
     },
@@ -504,7 +504,7 @@ var trainer_lookup = [
     },
     {
         "y": 14,
-        "map": "Route 20",
+        "map": "Sea Route 20",
         "name": "JR_TRAINER_F",
         "x": 55
     },
@@ -873,25 +873,25 @@ var trainer_lookup = [
     },
     {
         "y": 24,
-        "map": "Route 21",
+        "map": "Sea Route 21",
         "name": "FISHERMAN",
         "x": 4
     },
     {
         "y": 56,
-        "map": "Route 21",
+        "map": "Sea Route 21",
         "name": "FISHERMAN",
         "x": 14
     },
     {
         "y": 25,
-        "map": "Route 21",
+        "map": "Sea Route 21",
         "name": "FISHERMAN",
         "x": 6
     },
     {
         "y": 57,
-        "map": "Route 21",
+        "map": "Sea Route 21",
         "name": "FISHERMAN",
         "x": 17
     },
@@ -909,85 +909,85 @@ var trainer_lookup = [
     },
     {
         "y": 7,
-        "map": "Route 19",
+        "map": "Sea Route 19",
         "name": "SWIMMER",
         "x": 8
     },
     {
         "y": 7,
-        "map": "Route 19",
+        "map": "Sea Route 19",
         "name": "SWIMMER",
         "x": 13
     },
     {
         "y": 25,
-        "map": "Route 19",
+        "map": "Sea Route 19",
         "name": "SWIMMER",
         "x": 13
     },
     {
         "y": 27,
-        "map": "Route 19",
+        "map": "Sea Route 19",
         "name": "SWIMMER",
         "x": 4
     },
     {
         "y": 31,
-        "map": "Route 19",
+        "map": "Sea Route 19",
         "name": "SWIMMER",
         "x": 16
     },
     {
         "y": 11,
-        "map": "Route 19",
+        "map": "Sea Route 19",
         "name": "SWIMMER",
         "x": 9
     },
     {
         "y": 42,
-        "map": "Route 19",
+        "map": "Sea Route 19",
         "name": "SWIMMER",
         "x": 9
     },
     {
         "y": 8,
-        "map": "Route 20",
+        "map": "Sea Route 20",
         "name": "SWIMMER",
         "x": 87
     },
     {
         "y": 13,
-        "map": "Route 20",
+        "map": "Sea Route 20",
         "name": "SWIMMER",
         "x": 38
     },
     {
         "y": 13,
-        "map": "Route 20",
+        "map": "Sea Route 20",
         "name": "SWIMMER",
         "x": 87
     },
     {
         "y": 31,
-        "map": "Route 21",
+        "map": "Sea Route 21",
         "name": "SWIMMER",
         "x": 10
     },
     {
         "y": 63,
-        "map": "Route 21",
+        "map": "Sea Route 21",
         "name": "SWIMMER",
         "x": 16
     },
     {
         "y": 71,
-        "map": "Route 21",
+        "map": "Sea Route 21",
         "name": "SWIMMER",
         "x": 5
     },
     {
         "y": 71,
-        "map": "Route 21",
+        "map": "Sea Route 21",
         "name": "SWIMMER",
         "x": 15
     },
@@ -1041,7 +1041,7 @@ var trainer_lookup = [
     },
     {
         "y": 30,
-        "map": "Route 21",
+        "map": "Sea Route 21",
         "name": "CUE_BALL",
         "x": 12
     },
@@ -1114,19 +1114,19 @@ var trainer_lookup = [
     },
     {
         "y": 10,
-        "map": "Route 20",
+        "map": "Sea Route 20",
         "name": "BEAUTY",
         "x": 45
     },
     {
         "y": 7,
-        "map": "Route 20",
+        "map": "Sea Route 20",
         "name": "BEAUTY",
         "x": 25
     },
     {
         "y": 8,
-        "map": "Route 20",
+        "map": "Sea Route 20",
         "name": "BEAUTY",
         "x": 15
     },
@@ -1145,25 +1145,25 @@ var trainer_lookup = [
     {},
     {
         "y": 43,
-        "map": "Route 19",
+        "map": "Sea Route 19",
         "name": "BEAUTY",
         "x": 8
     },
     {
         "y": 43,
-        "map": "Route 19",
+        "map": "Sea Route 19",
         "name": "BEAUTY",
         "x": 11
     },
     {
         "y": 44,
-        "map": "Route 19",
+        "map": "Sea Route 19",
         "name": "BEAUTY",
         "x": 10
     },
     {
         "y": 11,
-        "map": "Route 20",
+        "map": "Sea Route 20",
         "name": "BEAUTY",
         "x": 68
     },
@@ -1339,7 +1339,7 @@ var trainer_lookup = [
     },
     {
         "y": 9,
-        "map": "Route 20",
+        "map": "Sea Route 20",
         "name": "BIRD_KEEPER",
         "x": 34
     },
