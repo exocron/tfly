@@ -227,9 +227,10 @@ var trainer_lookup = [
     },
     {
         "y": 11,
-        "map": "ssanne9",
+        "map": "S.S. Anne, 2F (9)",
         "name": "LASS",
-        "x": 2
+        "x": 2,
+        "notes": "Fourth room east of ascending stairs"
     },
     {
         "y": 3,
@@ -257,25 +258,25 @@ var trainer_lookup = [
     },
     {
         "y": 11,
-        "map": "celadongym",
+        "map": "Celadon City Gym",
         "name": "LASS",
         "x": 2
     },
     {
         "y": 3,
-        "map": "celadongym",
+        "map": "Celadon City Gym",
         "name": "LASS",
         "x": 6
     },
     {
         "y": 4,
-        "map": "ssanne5",
+        "map": "S.S. Anne, 3F (5)",
         "name": "SAILOR",
         "x": 4
     },
     {
         "y": 8,
-        "map": "ssanne5",
+        "map": "S.S. Anne, 3F (5)",
         "name": "SAILOR",
         "x": 10
     },
@@ -316,13 +317,13 @@ var trainer_lookup = [
     },
     {
         "y": 10,
-        "map": "vermiliongym",
+        "map": "Vermilion City Gym",
         "name": "SAILOR",
         "x": 0
     },
     {
         "y": 6,
-        "map": "pewtergym",
+        "map": "Pewter City Gym",
         "name": "JR_TRAINER_M",
         "x": 3
     },
@@ -371,7 +372,7 @@ var trainer_lookup = [
     },
     {
         "y": 3,
-        "map": "ceruleangym",
+        "map": "Cerulean City Gym",
         "name": "JR_TRAINER_F",
         "x": 2
     },
@@ -426,7 +427,7 @@ var trainer_lookup = [
     },
     {
         "y": 5,
-        "map": "celadongym",
+        "map": "Celadon City Gym",
         "name": "JR_TRAINER_F",
         "x": 9
     },
@@ -585,25 +586,25 @@ var trainer_lookup = [
     {},
     {
         "y": 2,
-        "map": "cinnabargym",
+        "map": "Cinnabar Island Gym",
         "name": "SUPER_NERD",
         "x": 17
     },
     {
         "y": 4,
-        "map": "cinnabargym",
+        "map": "Cinnabar Island Gym",
         "name": "SUPER_NERD",
         "x": 11
     },
     {
         "y": 14,
-        "map": "cinnabargym",
+        "map": "Cinnabar Island Gym",
         "name": "SUPER_NERD",
         "x": 11
     },
     {
         "y": 8,
-        "map": "cinnabargym",
+        "map": "Cinnabar Island Gym",
         "name": "SUPER_NERD",
         "x": 3
     },
@@ -786,19 +787,19 @@ var trainer_lookup = [
     {},
     {
         "y": 8,
-        "map": "cinnabargym",
+        "map": "Cinnabar Island Gym",
         "name": "BURGLAR",
         "x": 17
     },
     {
         "y": 8,
-        "map": "cinnabargym",
+        "map": "Cinnabar Island Gym",
         "name": "BURGLAR",
         "x": 11
     },
     {
         "y": 14,
-        "map": "cinnabargym",
+        "map": "Cinnabar Island Gym",
         "name": "BURGLAR",
         "x": 3
     },
@@ -903,7 +904,7 @@ var trainer_lookup = [
     },
     {
         "y": 7,
-        "map": "ceruleangym",
+        "map": "Cerulean City Gym",
         "name": "SWIMMER",
         "x": 8
     },
@@ -1084,19 +1085,19 @@ var trainer_lookup = [
     },
     {
         "y": 10,
-        "map": "celadongym",
+        "map": "Celadon City Gym",
         "name": "BEAUTY",
         "x": 7
     },
     {
         "y": 5,
-        "map": "celadongym",
+        "map": "Celadon City Gym",
         "name": "BEAUTY",
         "x": 1
     },
     {
         "y": 3,
-        "map": "celadongym",
+        "map": "Celadon City Gym",
         "name": "BEAUTY",
         "x": 3
     },
@@ -1169,31 +1170,31 @@ var trainer_lookup = [
     },
     {
         "y": 1,
-        "map": "saffrongym",
+        "map": "Saffron City Gym",
         "name": "PSYCHIC_TR",
         "x": 17
     },
     {
         "y": 7,
-        "map": "saffrongym",
+        "map": "Saffron City Gym",
         "name": "PSYCHIC_TR",
         "x": 17
     },
     {
         "y": 13,
-        "map": "saffrongym",
+        "map": "Saffron City Gym",
         "name": "PSYCHIC_TR",
         "x": 17
     },
     {
         "y": 1,
-        "map": "saffrongym",
+        "map": "Saffron City Gym",
         "name": "PSYCHIC_TR",
         "x": 3
     },
     {
         "y": 8,
-        "map": "vermiliongym",
+        "map": "Vermilion City Gym",
         "name": "ROCKER",
         "x": 3
     },
@@ -1217,13 +1218,13 @@ var trainer_lookup = [
     },
     {
         "y": 8,
-        "map": "fuchsiagym",
+        "map": "Fuchsia City Gym",
         "name": "JUGGLER",
         "x": 7
     },
     {
         "y": 7,
-        "map": "fuchsiagym",
+        "map": "Fuchsia City Gym",
         "name": "JUGGLER",
         "x": 2
     },
@@ -1236,37 +1237,37 @@ var trainer_lookup = [
     {},
     {
         "y": 13,
-        "map": "fuchsiagym",
+        "map": "Fuchsia City Gym",
         "name": "JUGGLER",
         "x": 8
     },
     {
         "y": 12,
-        "map": "fuchsiagym",
+        "map": "Fuchsia City Gym",
         "name": "JUGGLER",
         "x": 1
     },
     {
         "y": 5,
-        "map": "fuchsiagym",
+        "map": "Fuchsia City Gym",
         "name": "TAMER",
         "x": 3
     },
     {
         "y": 2,
-        "map": "fuchsiagym",
+        "map": "Fuchsia City Gym",
         "name": "TAMER",
         "x": 8
     },
     {
         "y": 7,
-        "map": "viridiangym",
+        "map": "Viridian City Gym",
         "name": "TAMER",
         "x": 10
     },
     {
         "y": 16,
-        "map": "viridiangym",
+        "map": "Viridian City Gym",
         "name": "TAMER",
         "x": 2
     },
@@ -1371,49 +1372,49 @@ var trainer_lookup = [
     },
     {
         "y": 3,
-        "map": "fightingdojo",
+        "map": "Fighting Dojo (Saffron City)",
         "name": "BLACKBELT",
         "x": 5
     },
     {
         "y": 4,
-        "map": "fightingdojo",
+        "map": "Fighting Dojo (Saffron City)",
         "name": "BLACKBELT",
         "x": 3
     },
     {
         "y": 6,
-        "map": "fightingdojo",
+        "map": "Fighting Dojo (Saffron City)",
         "name": "BLACKBELT",
         "x": 3
     },
     {
         "y": 5,
-        "map": "fightingdojo",
+        "map": "Fighting Dojo (Saffron City)",
         "name": "BLACKBELT",
         "x": 5
     },
     {
         "y": 7,
-        "map": "fightingdojo",
+        "map": "Fighting Dojo (Saffron City)",
         "name": "BLACKBELT",
         "x": 5
     },
     {
         "y": 11,
-        "map": "viridiangym",
+        "map": "Viridian City Gym",
         "name": "BLACKBELT",
         "x": 11
     },
     {
         "y": 7,
-        "map": "viridiangym",
+        "map": "Viridian City Gym",
         "name": "BLACKBELT",
         "x": 3
     },
     {
         "y": 1,
-        "map": "viridiangym",
+        "map": "Viridian City Gym",
         "name": "BLACKBELT",
         "x": 10
     },
@@ -1528,7 +1529,7 @@ var trainer_lookup = [
     },
     {
         "y": 1,
-        "map": "viridiangym",
+        "map": "Viridian City Gym",
         "name": "GIOVANNI",
         "x": 2
     },
@@ -1570,7 +1571,7 @@ var trainer_lookup = [
     },
     {
         "y": 5,
-        "map": "celadongamecorner",
+        "map": "Celadon Game Corner (1F)",
         "name": "ROCKET",
         "x": 9
     },
@@ -1775,7 +1776,7 @@ var trainer_lookup = [
     },
     {
         "y": 5,
-        "map": "viridiangym",
+        "map": "Viridian City Gym",
         "name": "COOLTRAINER_M",
         "x": 6
     },
@@ -1803,19 +1804,19 @@ var trainer_lookup = [
     {},
     {
         "y": 7,
-        "map": "viridiangym",
+        "map": "Viridian City Gym",
         "name": "COOLTRAINER_M",
         "x": 12
     },
     {
         "y": 5,
-        "map": "viridiangym",
+        "map": "Viridian City Gym",
         "name": "COOLTRAINER_M",
         "x": 13
     },
     {
         "y": 3,
-        "map": "celadongym",
+        "map": "Celadon City Gym",
         "name": "COOLTRAINER_F",
         "x": 5
     },
@@ -1849,43 +1850,43 @@ var trainer_lookup = [
     },
     {
         "y": 1,
-        "map": "pewtergym",
+        "map": "Pewter City Gym",
         "name": "BROCK",
         "x": 4
     },
     {
         "y": 2,
-        "map": "ceruleangym",
+        "map": "Cerulean City Gym",
         "name": "MISTY",
         "x": 4
     },
     {
         "y": 1,
-        "map": "vermiliongym",
+        "map": "Vermilion City Gym",
         "name": "LT_SURGE",
         "x": 5
     },
     {
         "y": 3,
-        "map": "celadongym",
+        "map": "Celadon City Gym",
         "name": "ERIKA",
         "x": 4
     },
     {
         "y": 10,
-        "map": "fuchsiagym",
+        "map": "Fuchsia City Gym",
         "name": "KOGA",
         "x": 4
     },
     {
         "y": 3,
-        "map": "cinnabargym",
+        "map": "Cinnabar Island Gym",
         "name": "BLAINE",
         "x": 3
     },
     {
         "y": 8,
-        "map": "saffrongym",
+        "map": "Saffron City Gym",
         "name": "SABRINA",
         "x": 9
     },
@@ -1905,9 +1906,9 @@ var trainer_lookup = [
     },
     {
         "y": 6,
-        "map": "vermiliongym",
+        "map": "Vermilion City Gym",
         "name": "GENTLEMAN",
-        "x": 9,
+        "x": 9
     },
     {},
     {
@@ -2026,19 +2027,19 @@ var trainer_lookup = [
     },
     {
         "y": 1,
-        "map": "saffrongym",
+        "map": "Saffron City Gym",
         "name": "CHANNELER",
         "x": 10
     },
     {
         "y": 7,
-        "map": "saffrongym",
+        "map": "Saffron City Gym",
         "name": "CHANNELER",
         "x": 3
     },
     {
         "y": 13,
-        "map": "saffrongym",
+        "map": "Saffron City Gym",
         "name": "CHANNELER",
         "x": 3
     },
